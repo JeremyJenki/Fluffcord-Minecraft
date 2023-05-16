@@ -1,0 +1,12 @@
+{
+    "level0": {
+        "sounds": [
+            "fluffcord:level0"
+        ]
+    },
+    "perfectgirl": {
+        "sounds": [
+            "fluffcord:perfectgirl"
+        ]
+    },
+}
