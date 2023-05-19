@@ -20,6 +20,6 @@ jobs:
         uses: actions/upload-release-asset@v1
         with:
           upload_url: ${{ github.event.release.upload_url }}
-          asset_path: ./Fluffcord-Minecraft.zip
+          asset_path: ../Fluffcord-Minecraft.zip
           asset_name: Fluffcord-Minecraft.zip
           asset_content_type: application/zip
