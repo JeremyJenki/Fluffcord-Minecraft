@@ -8,4 +8,5 @@
 - someone namedmax - poofloaf.png
 - ??? - icon Ralsei, level0.ogg, backrooms_\*.png
 - Mareux - perfectgirl.ogg
+- Lomein22 - ralsdummy.json/.png
 - hecko - everything else
