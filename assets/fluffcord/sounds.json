@@ -8,5 +8,10 @@
         "sounds": [
             "fluffcord:perfectgirl"
         ]
+    },
+    "level37": {
+        "sounds": [
+            "fluffcord:level37"
+        ]
     }
 }
