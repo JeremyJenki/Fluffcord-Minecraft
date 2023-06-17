@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "fluffcord:block/pool_blue_tiles"
+  }
+}
