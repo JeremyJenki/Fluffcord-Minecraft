@@ -6,7 +6,9 @@
 - kitty_irl - kris_sword.png, susie_axe.png
 - Mojang - base for spamton_rocket.png
 - someone namedmax - poofloaf.png
-- ??? - icon Ralsei, level0.ogg, level37.ogg, backrooms_\*.png, pool_*.png
+- ??? - icon Ralsei, level37.ogg, backrooms_\*.png
+- Epidemic Sound - level0.ogg
+- Snayke - pool_*.png
 - Mareux - perfectgirl.ogg
 - Lomein22 - ralsdummy.json/.png (tweaked by hecko)
 - hecko - everything else
