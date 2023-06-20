@@ -23,5 +23,25 @@
         "sounds": [
             "fluffcord:won_ch1"
         ]
+    },
+    "won_ch1": {
+        "sounds": [
+            "fluffcord:won_ch1"
+        ]
+    },
+    "poofhq": {
+        "sounds": [
+            "fluffcord:poofhq"
+        ]
+    },
+    "snd_rurus_appear_01": {
+        "sounds": [
+            "fluffcord:snd_rurus_appear_01"
+        ]
+    },
+    "snd_bell_01": {
+        "sounds": [
+            "fluffcord:snd_bell_01"
+        ]
     }
 }
