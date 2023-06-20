@@ -26,7 +26,12 @@
     },
     "poofhq": {
         "sounds": [
-            "fluffcord:poofhq"
+            "fluffcord:poofhq_music"
+        ]
+    },
+    "poofhq": {
+        "sounds": [
+            "fluffcord:poofhq_ambience"
         ]
     },
     "snd_rurus_appear_01": {
