@@ -24,12 +24,12 @@
             "fluffcord:won_ch1"
         ]
     },
-    "poofhq": {
+    "poofhq_music": {
         "sounds": [
             "fluffcord:poofhq_music"
         ]
     },
-    "poofhq": {
+    "poofhq_ambience": {
         "sounds": [
             "fluffcord:poofhq_ambience"
         ]
