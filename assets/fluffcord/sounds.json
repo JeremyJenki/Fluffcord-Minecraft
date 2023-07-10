@@ -43,5 +43,55 @@
         "sounds": [
             "fluffcord:snd_bell_01"
         ]
+    },
+    "snd_boxing_round1_01": {
+        "sounds": [
+            "fluffcord:snd_boxing_round1_01.ogg"
+        ]
+    },
+    "snd_boxing_round2_01": {
+        "sounds": [
+            "fluffcord:snd_boxing_round2_01.ogg"
+        ]
+    },
+    "snd_boxing_round1_03": {
+        "sounds": [
+            "fluffcord:snd_boxing_round3_01.ogg"
+        ]
+    },
+    "snd_damage_01": {
+        "sounds": [
+            "fluffcord:snd_damage_01.ogg"
+        ]
+    },
+    "snd_pacify_01": {
+        "sounds": [
+            "fluffcord:snd_pacify_01.ogg"
+        ]
+    },
+    "snd_save_ch1_01": {
+        "sounds": [
+            "fluffcord:snd_save_ch1_01.ogg"
+        ]
+    },
+    "snd_select_ch1_01": {
+        "sounds": [
+            "fluffcord:snd_select_ch1_01.ogg"
+        ]
+    },
+    "snd_ralseising1_ch1_01": {
+        "sounds": [
+            "fluffcord:snd_ralseising1_ch1_01.ogg"
+        ]
+    },
+    "snd_spamton_laugh_01": {
+        "sounds": [
+            "fluffcord:snd_spamton_laugh_01.ogg"
+        ]
+    },
+    "snd_weaponpull_01": {
+        "sounds": [
+            "fluffcord:snd_weaponpull_01.ogg"
+        ]
     }
 }
