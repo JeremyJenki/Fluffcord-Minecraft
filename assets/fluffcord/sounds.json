@@ -44,19 +44,9 @@
             "fluffcord:snd_bell_01"
         ]
     },
-    "snd_boxing_round1_01": {
+    "sleeping": {
         "sounds": [
-            "fluffcord:snd_boxing_round1_01"
-        ]
-    },
-    "snd_boxing_round2_01": {
-        "sounds": [
-            "fluffcord:snd_boxing_round2_01"
-        ]
-    },
-    "snd_boxing_round3_01": {
-        "sounds": [
-            "fluffcord:snd_boxing_round3_01"
+            "fluffcord:sleeping"
         ]
     },
     "snd_damage_01": {
