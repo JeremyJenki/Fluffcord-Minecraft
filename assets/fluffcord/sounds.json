@@ -83,5 +83,10 @@
         "sounds": [
             "fluffcord:snd_weaponpull_01"
         ]
+    },
+    "telephone": {
+        "sounds": [
+            "fluffcord:telephone"
+        ]
     }
 }
