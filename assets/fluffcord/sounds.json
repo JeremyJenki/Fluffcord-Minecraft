@@ -49,11 +49,6 @@
             "fluffcord:sleeping"
         ]
     },
-    "snd_damage_01": {
-        "sounds": [
-            "fluffcord:snd_damage_01"
-        ]
-    },
     "snd_pacify_01": {
         "sounds": [
             "fluffcord:snd_pacify_01"
