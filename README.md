@@ -11,4 +11,5 @@
 - Snayke - pool_*.png
 - Mareux - perfectgirl.ogg
 - Lomein22 - ralsdummy.json/.png (tweaked by hecko)
+- BR4NDER5 - sulfur.png, potassium.png, raw_potassium.png
 - hecko - everything else
