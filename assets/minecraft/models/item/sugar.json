@@ -5,6 +5,5 @@
   },
   "overrides": [
     {"predicate": {"custom_model_data": 1}, "model": "fluffcord:item/potassium"},
-    {"predicate": {"custom_model_data": 2}, "model": "fluffcord:item/raw_potassium"}
   ]
 }
