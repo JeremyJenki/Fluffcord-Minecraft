@@ -1,0 +1,15 @@
+{
+    "parent": "item/weapons/ak47",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [0, 0, 0],
+			"translation": [-8.96, 5.1, 3.5],
+			"scale": [1, 1, 0.9]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, 0],
+			"translation": [-8.96, 5.1, 3.5],
+			"scale": [1, 1, 0.9]
+        }
+    }
+}

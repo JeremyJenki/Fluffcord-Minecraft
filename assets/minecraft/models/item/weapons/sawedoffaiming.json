@@ -1,0 +1,15 @@
+{
+    "parent": "item/weapons/sawedoff",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [2, 0, 1],
+			"translation": [-8.96, 4.5, 0.25],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"firstperson_lefthand": {
+			"rotation": [2, 0, 1],
+			"translation": [-8.96, 4.5, 0.25],
+			"scale": [0.65, 0.65, 0.65]
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "parent": "item/weapons/flaregun",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [2, 0, 0],
+			"translation": [-8.96, 3.25, -8],
+			"scale": [1.1, 1.1, 1.1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [2, 0, 0],
+			"translation": [-8.96, 3.25, -8],
+			"scale": [1.1, 1.1, 1.1]
+        }
+    }
+}

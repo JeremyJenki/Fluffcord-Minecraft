@@ -1,0 +1,15 @@
+{
+    "parent": "item/weapons/ppsh41",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [0, 70, 12],
+			"translation": [-9.75, 4.5, 3],
+			"scale": [1, 1, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 70, 12],
+			"translation": [-9.75, 4.5, 3],
+			"scale": [1, 1, 1]
+		}
+    }
+}
