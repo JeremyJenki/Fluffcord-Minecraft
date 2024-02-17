@@ -1,7 +1,0 @@
-{
-	"credit": "Sprite by Toby Fox",
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "fluffcord:item/ms_pipis"
-  }
-}
