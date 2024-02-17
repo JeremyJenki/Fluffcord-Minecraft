@@ -1,0 +1,452 @@
+{
+  "fx.ricochet": {
+    "category": "master",
+    "sounds": [ "fx/bowhit1", "fx/bowhit2", "fx/bowhit3", "fx/bowhit4" ]
+  },
+  "fx.whiz": {
+    "category": "master",
+    "sounds": [
+      {
+				"name": "fx/whiz1",
+				"weight": 4
+			},
+      {
+				"name": "fx/whiz2",
+				"weight": 1
+			},
+      {
+				"name": "fx/whiz3",
+				"weight": 2
+			}
+    ]
+  },
+  "fx.stim": {
+    "category": "master",
+    "sounds": [ "misc/stim" ]
+  },
+  "explosion.frag": {
+    "category": "master",
+	  "sounds": [ "explosion/frag" ]
+  },
+  "explosion.molotov": {
+    "category": "master",
+	  "sounds": [ "explosion/molotov" ]
+  },
+  "reload.start.light": {
+    "category": "master",
+	  "sounds": [ "reload/eject_mag_light" ]
+  },
+  "reload.end.light": {
+    "category": "master",
+	  "sounds": [ "reload/insert_mag_light" ]
+  },
+  "reload.start.normal": {
+    "category": "master",
+	  "sounds": [ "reload/eject_mag_normal" ]
+  },
+  "reload.end.normal": {
+    "category": "master",
+	  "sounds": [ "reload/insert_mag_normal" ]
+  },
+  "reload.start.heavy": {
+    "category": "master",
+	  "sounds": [ "reload/eject_mag_minigun" ]
+  },
+  "reload.end.heavy": {
+    "category": "master",
+	  "sounds": [ "reload/insert_mag_minigun" ]
+  },
+  "reload.start.shotgun": {
+    "category": "master",
+	  "sounds": [ "reload/insert_shotgun_shells" ]
+  },
+  "shoot.50gs.quiet": {
+    "category": "master",
+    "sounds": ["shoot/quiet/50gs"]
+  },
+  "shoot.357magnum.quiet": {
+    "category": "master",
+    "sounds": ["shoot/quiet/357magnum"]
+  },
+  "shoot.ak47.quiet": {
+    "category": "master",
+    "sounds": ["shoot/quiet/ak47"]
+  },
+  "shoot.aug.quiet": {
+    "category": "master",
+    "sounds": ["shoot/quiet/aug"]
+  },
+  "shoot.ax50.quiet": {
+    "category": "master",
+    "sounds": ["shoot/quiet/ax50"]
+  },
+  "shoot.fnfal.quiet": {
+    "category": "master",
+    "sounds": ["shoot/quiet/fnfal"]
+  },
+  "shoot.fr556.quiet": {
+    "category": "master",
+    "sounds": ["shoot/quiet/fr556"]
+  },
+  "shoot.kar98k.quiet": {
+    "category": "master",
+    "sounds": ["shoot/quiet/kar98k"]
+  },
+  "shoot.m4a1.quiet": {
+    "category": "master",
+    "sounds": ["shoot/quiet/m4a1"]
+  },
+  "shoot.mg34.quiet": {
+    "category": "master",
+    "sounds": ["shoot/quiet/mg34"]
+  },
+  "shoot.origin12.quiet": {
+    "category": "master",
+    "sounds": ["shoot/quiet/origin12"]
+  },
+  "shoot.r90.quiet": {
+    "category": "master",
+    "sounds": ["shoot/quiet/r90shotgun"]
+  },
+  "shoot.rpg7.quiet": {
+    "category": "master",
+    "sounds": ["shoot/quiet/rpg7"]
+  },
+  "shoot.uzi.quiet": {
+    "category": "master",
+    "sounds": ["shoot/quiet/uzi"]
+  },
+  "shoot.stg44.quiet": {
+    "category": "master",
+    "sounds": ["shoot/quiet/stg44"]
+  },
+  "shoot.fatman.quiet": {
+    "category": "master",
+    "sounds": ["shoot/quiet/fatman"]
+  },
+  "shoot.50gs.ambient": {
+    "category": "master",
+    "sounds": ["shoot/ambient/50gs"]
+  },
+  "shoot.357magnum.ambient": {
+    "category": "master",
+    "sounds": ["shoot/ambient/357magnum"]
+  },
+  "shoot.ak47.ambient": {
+    "category": "master",
+    "sounds": ["shoot/ambient/ak47"]
+  },
+  "shoot.aug.ambient": {
+    "category": "master",
+    "sounds": ["shoot/ambient/aug"]
+  },
+  "shoot.ax50.ambient": {
+    "category": "master",
+    "sounds": ["shoot/ambient/ax50"]
+  },
+  "shoot.fnfal.ambient": {
+    "category": "master",
+    "sounds": ["shoot/ambient/fnfal"]
+  },
+  "shoot.fr556.ambient": {
+    "category": "master",
+    "sounds": ["shoot/ambient/fr556"]
+  },
+  "shoot.kar98k.ambient": {
+    "category": "master",
+    "sounds": ["shoot/ambient/kar98k"]
+  },
+  "shoot.m4a1.ambient": {
+    "category": "master",
+    "sounds": ["shoot/ambient/m4a1"]
+  },
+  "shoot.mg34.ambient": {
+    "category": "master",
+    "sounds": ["shoot/ambient/mg34"]
+  },
+  "shoot.origin12.ambient": {
+    "category": "master",
+    "sounds": ["shoot/ambient/origin12"]
+  },
+  "shoot.r90.ambient": {
+    "category": "master",
+    "sounds": ["shoot/ambient/r90shotgun"]
+  },
+  "shoot.rpg7.ambient": {
+    "category": "master",
+    "sounds": ["shoot/ambient/rpg7"]
+  },
+  "shoot.uzi.ambient": {
+    "category": "master",
+    "sounds": ["shoot/ambient/uzi"]
+  },
+  "shoot.stg44.ambient": {
+    "category": "master",
+    "sounds": ["shoot/ambient/stg44"]
+  },
+  "shoot.fatman.ambient": {
+    "category": "master",
+    "sounds": ["shoot/ambient/fatman"]
+  },
+  "shoot.50gs.loud": {
+    "category": "master",
+    "sounds": ["shoot/loud/50gs"]
+  },
+  "shoot.357magnum.loud": {
+    "category": "master",
+    "sounds": ["shoot/loud/357magnum"]
+  },
+  "shoot.ak47.loud": {
+    "category": "master",
+    "sounds": ["shoot/loud/ak47"]
+  },
+  "shoot.aug.loud": {
+    "category": "master",
+    "sounds": ["shoot/loud/aug"]
+  },
+  "shoot.ax50.loud": {
+    "category": "master",
+    "sounds": ["shoot/loud/ax50"]
+  },
+  "shoot.fnfal.loud": {
+    "category": "master",
+    "sounds": ["shoot/loud/fnfal"]
+  },
+  "shoot.fr556.loud": {
+    "category": "master",
+    "sounds": ["shoot/loud/fr556"]
+  },
+  "shoot.kar98k.loud": {
+    "category": "master",
+    "sounds": ["shoot/loud/kar98k"]
+  },
+  "shoot.m4a1.loud": {
+    "category": "master",
+    "sounds": ["shoot/loud/m4a1"]
+  },
+  "shoot.mg34.loud": {
+    "category": "master",
+    "sounds": ["shoot/loud/mg34"]
+  },
+  "shoot.origin12.loud": {
+    "category": "master",
+    "sounds": ["shoot/loud/origin12"]
+  },
+  "shoot.r90.loud": {
+    "category": "master",
+    "sounds": ["shoot/loud/r90shotgun"]
+  },
+  "shoot.rpg7.loud": {
+    "category": "master",
+    "sounds": ["shoot/loud/rpg7"]
+  },
+  "shoot.uzi.loud": {
+    "category": "master",
+    "sounds": ["shoot/loud/uzi"]
+  },
+  "shoot.stg44.loud": {
+    "category": "master",
+    "sounds": ["shoot/loud/stg44"]
+  },
+  "shoot.fatman.loud": {
+    "category": "master",
+    "sounds": ["shoot/loud/fatman"]
+  },
+  "reload.m1garand.ping": {
+    "category": "master",
+    "sounds": ["reload/m1garand_ping"]
+  },
+  "misc.pistoldryfire": {
+    "category": "master",
+    "sounds": ["misc/pistol_dry_fire"]
+  },
+  "misc.rifledryfire": {
+    "category": "master",
+    "sounds": ["misc/rifle_dry_fire"]
+  },
+  "misc.smgdryfire": {
+    "category": "master",
+    "sounds": ["misc/smg_dry_fire"]
+  },
+  "metalhit": {
+    "category": "master",
+    "sounds": ["misc/metalhit"]
+  },
+  "misc.laser": {
+    "category": "master",
+    "sounds": ["misc/laser"]
+  },
+  "driving2": {
+    "category": "master",
+    "sounds": ["misc/driving2"]
+  },
+  "shoot.revolver.close": {
+    "category": "master",
+    "sounds": [
+      "shoot/close/revolver_1",
+      "shoot/close/revolver_2",
+      "shoot/close/revolver_3"
+    ]
+  },
+  "shoot.mauser.close": {
+    "category": "master",
+    "sounds": [
+      "shoot/close/mauser_1",
+      "shoot/close/mauser_2"
+    ]
+  },
+  "shoot.m1911.close": {
+    "category": "master",
+    "sounds": [
+      "shoot/close/m1911"
+    ]
+  },
+  "shoot.doubleaction.close": {
+    "category": "master",
+    "sounds": [
+      "shoot/close/doubleaction_1",
+      "shoot/close/doubleaction_2"
+    ]
+  },
+  "shoot.litchfield.close": {
+    "category": "master",
+    "sounds": [
+      "shoot/close/litchfield_1",
+      "shoot/close/litchfield_2"
+    ]
+  },
+  "shoot.lancaster.close": {
+    "category": "master",
+    "sounds": [
+      "shoot/close/lancaster_1",
+      "shoot/close/lancaster_2",
+      "shoot/close/lancaster_3"
+    ]
+  },
+  "shoot.lemat.close": {
+    "category": "master",
+    "sounds": [
+      "shoot/close/lemat_1",
+      "shoot/close/lemat_2",
+      "shoot/close/lemat_3"
+    ]
+  },
+  "shoot.evans.close": {
+    "category": "master",
+    "sounds": [
+      "shoot/close/evans_1",
+      "shoot/close/evans_2"
+    ]
+  },
+  "shoot.luger.close": {
+    "category": "master",
+    "sounds": [
+      "shoot/close/luger_1",
+      "shoot/close/luger_2"
+    ]
+  },
+  "shoot.rollingblock.close": {
+    "category": "master",
+    "sounds": [
+      "shoot/close/rollingblock_1",
+      "shoot/close/rollingblock_2",
+      "shoot/close/rollingblock_3"
+    ]
+  },
+  "shoot.schofield.close": {
+    "category": "master",
+    "sounds": [
+      "shoot/close/schofield_1",
+      "shoot/close/schofield_2",
+      "shoot/close/schofield_3"
+    ]
+  },
+  "shoot.silenced.close": {
+    "category": "master",
+    "sounds": [
+      "shoot/close/silenced"
+    ]
+  },
+  "shoot.sawedoff.close": {
+    "category": "master",
+    "sounds": [
+      "shoot/close/sawedoff_1",
+      "shoot/close/sawedoff_2"
+    ]
+  },
+  "shoot.mp18.close": {
+    "category": "master",
+    "sounds": ["shoot/close/mp18"]
+  },
+  "explosion.grenade.distant": {
+    "category": "master",
+    "sounds": [
+      "shoot/artillery/grenadedistant_1",
+      "shoot/artillery/grenadedistant_2",
+      "shoot/artillery/grenadedistant_3"
+    ]
+  },
+  "explosion.artillery.distant": {
+    "category": "master",
+    "sounds": [
+      "shoot/artillery/artillerydistant_1",
+      "shoot/artillery/artillerydistant_2"
+    ]
+  },
+  "explosion.artillery.verydistant": {
+    "category": "master",
+    "sounds": ["shoot/artillery/artilleryverydistant"]
+  },
+  "shoot.lewis.close": {
+    "category": "master",
+    "sounds": ["shoot/close/lewis"]
+  },
+  "shoot.webley.close": {
+    "category": "master",
+    "sounds": ["shoot/close/webley"]
+  },
+  "shoot.garand.close": {
+    "category": "master",
+    "sounds": ["shoot/close/garand"]
+  },
+  "shoot.thompson.close": {
+    "category": "master",
+    "sounds": ["shoot/close/thompson"]
+  },
+  "shoot.mg08.close": {
+    "category": "master",
+    "sounds": ["shoot/close/mg08"]
+  },
+  "shoot.carcano.close": {
+    "category": "master",
+    "sounds": ["shoot/close/carcano"]
+  },
+  "shoot.kar98k.close": {
+    "category": "master",
+    "sounds": ["shoot/close/kar98k"]
+  },
+  "shoot.springfield.close": {
+    "category": "master",
+    "sounds": ["shoot/close/springfield"]
+  },
+  "shoot.rifle.close": {
+    "category": "master",
+    "sounds": [
+      "shoot/close/rifle_1",
+      "shoot/close/rifle_2"
+    ]
+  },
+  "fx.grenadebounce": {
+    "category": "master",
+    "sounds": [
+      "fx/grenadebounce_1",
+      "fx/grenadebounce_2",
+      "fx/grenadebounce_3",
+      "fx/grenadebounce_4"
+    ]
+  },
+  "fx.grenadethrow": {
+    "category": "master",
+    "sounds": ["fx/grenadethrow"]
+  }
+}
