@@ -1,0 +1,6 @@
+{
+    "parent": "item/misc/ammo",
+    "textures": {
+      "ammo": "item/misc/ammo/dragonsbreath"
+    }
+  }
