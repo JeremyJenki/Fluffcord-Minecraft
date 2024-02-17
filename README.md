@@ -8,8 +8,9 @@
 - someone namedmax - poofloaf.png
 - ??? - icon Ralsei, level37.ogg, backrooms_\*.png
 - Epidemic Sound - level0.ogg
+- BananVovan - gun models
+- Zacho - gun models
 - Snayke - pool_*.png
 - Mareux - perfectgirl.ogg
 - Lomein22 - ralsdummy.json/.png (tweaked by hecko)
-- BR4NDER5 - sulfur.png, potassium.png, raw_potassium.png
 - hecko - everything else
