@@ -254,7 +254,7 @@
   },
   "reload.m1garand.ping": {
     "category": "master",
-    "sounds": ["weapon/garand/garand_ping"]
+    "sounds": ["weapons/garand/garand_ping"]
   },
   "misc.pistoldryfire": {
     "category": "master",
