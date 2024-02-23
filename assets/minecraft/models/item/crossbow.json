@@ -78,6 +78,13 @@
         {"predicate": {"custom_model_data":  44}, "model":"item/weapons/singleactionrapid"},
         {"predicate": {"custom_model_data":  45}, "model":"item/weapons/wildrevolverrapid"},
 
+        {"predicate": {"custom_model_data":125}, "model":"item/weapons/carcano_cherry"},
+        {"predicate": {"custom_model_data":142}, "model":"item/weapons/carcanosniper_cherry"},
+        {"predicate": {"custom_model_data":225}, "model":"item/weapons/carcano_night"},
+        {"predicate": {"custom_model_data":242}, "model":"item/weapons/carcanosniper_night"},
+        {"predicate": {"custom_model_data":325}, "model":"item/weapons/carcano_forest"},
+        {"predicate": {"custom_model_data":342}, "model":"item/weapons/carcanosniper_forest"},
+
         {"predicate": {"custom_model_data":1001}, "model":"item/weapons/ppsh41aiming"},
         {"predicate": {"custom_model_data":1002}, "model":"item/weapons/mp18aiming"},
         {"predicate": {"custom_model_data":1003}, "model":"item/weapons/origin12aiming"},
@@ -119,6 +126,13 @@
         {"predicate": {"custom_model_data":1042}, "model":"item/weapons/reticle_arisaka"},
         {"predicate": {"custom_model_data":1045}, "model":"item/weapons/wildrevolveraiming"},
 
+        {"predicate": {"custom_model_data":1125}, "model":"item/weapons/reticle_arisaka"},
+        {"predicate": {"custom_model_data":1142}, "model":"item/weapons/reticle_arisaka"},
+        {"predicate": {"custom_model_data":1225}, "model":"item/weapons/reticle_arisaka"},
+        {"predicate": {"custom_model_data":1242}, "model":"item/weapons/reticle_arisaka"},
+        {"predicate": {"custom_model_data":1325}, "model":"item/weapons/reticle_arisaka"},
+        {"predicate": {"custom_model_data":1342}, "model":"item/weapons/reticle_arisaka"},
+
         {"predicate": {"custom_model_data":2001}, "model":"item/weapons/ppsh41sprinting"},
         {"predicate": {"custom_model_data":2002}, "model":"item/weapons/mp18sprinting"},
         {"predicate": {"custom_model_data":2003}, "model":"item/weapons/origin12sprinting"},
@@ -159,6 +173,13 @@
         {"predicate": {"custom_model_data":2042}, "model":"item/weapons/carcanosnipersprinting"},
         {"predicate": {"custom_model_data":2043}, "model":"item/weapons/oldrevolversprinting"},
         {"predicate": {"custom_model_data":2044}, "model":"item/weapons/singleactionsprinting"},
-        {"predicate": {"custom_model_data":2045}, "model":"item/weapons/wildrevolversprinting"}
+        {"predicate": {"custom_model_data":2045}, "model":"item/weapons/wildrevolversprinting"},
+
+        {"predicate": {"custom_model_data":2125}, "model":"item/weapons/carcano_cherrysprinting"},
+        {"predicate": {"custom_model_data":2142}, "model":"item/weapons/carcanosniper_cherrysprinting"},
+        {"predicate": {"custom_model_data":2225}, "model":"item/weapons/carcano_nightsprinting"},
+        {"predicate": {"custom_model_data":2242}, "model":"item/weapons/carcanosniper_nightsprinting"},
+        {"predicate": {"custom_model_data":2325}, "model":"item/weapons/carcano_forestsprinting"},
+        {"predicate": {"custom_model_data":2342}, "model":"item/weapons/carcanosniper_forestsprinting"}
 	]
 }
