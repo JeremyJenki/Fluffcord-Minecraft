@@ -109,11 +109,11 @@
         {"predicate": {"custom_model_data":1042}, "model":"item/weapons/reticle_arisaka"},
         {"predicate": {"custom_model_data":1045}, "model":"item/weapons/wildrevolveraiming"},
 
-        {"predicate": {"custom_model_data":1125}, "model":"item/weapons/reticle_arisaka"},
+        {"predicate": {"custom_model_data":1125}, "model":"item/weapons/carcano_cherryaiming"},
         {"predicate": {"custom_model_data":1142}, "model":"item/weapons/reticle_arisaka"},
-        {"predicate": {"custom_model_data":1225}, "model":"item/weapons/reticle_arisaka"},
+        {"predicate": {"custom_model_data":1225}, "model":"item/weapons/carcano_nightaiming"},
         {"predicate": {"custom_model_data":1242}, "model":"item/weapons/reticle_arisaka"},
-        {"predicate": {"custom_model_data":1325}, "model":"item/weapons/reticle_arisaka"},
+        {"predicate": {"custom_model_data":1325}, "model":"item/weapons/carcano_forestaiming"},
         {"predicate": {"custom_model_data":1342}, "model":"item/weapons/reticle_arisaka"},
 
         {"predicate": {"custom_model_data":2001}, "model":"item/weapons/ppsh41sprinting"},
