@@ -1,0 +1,7 @@
+{
+	"parent": "item/weapons/carcanosniper",
+	"textures": {
+	  "1": "item/weapons/carcano_black"
+	}
+  }
+  

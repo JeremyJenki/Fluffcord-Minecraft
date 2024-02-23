@@ -1,0 +1,7 @@
+{
+	"parent": "item/weapons/carcano",
+	"textures": {
+	  "1": "item/weapons/carcano_cherry"
+	}
+  }
+  
