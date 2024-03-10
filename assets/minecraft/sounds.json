@@ -372,13 +372,6 @@
       "shoot/close/silenced"
     ]
   },
-  "shoot.sawedoff.close": {
-    "category": "master",
-    "sounds": [
-      "shoot/close/sawedoff_1",
-      "shoot/close/sawedoff_2"
-    ]
-  },
   "shoot.mp18.close": {
     "category": "master",
     "sounds": [
@@ -418,10 +411,6 @@
     "category": "master",
     "sounds": ["shoot/close/webley"]
   },
-  "shoot.thompson.close": {
-    "category": "master",
-    "sounds": ["shoot/close/thompson"]
-  },
   "shoot.mg08.close": {
     "category": "master",
     "sounds": [
@@ -445,14 +434,6 @@
   "charge.carcano": {
     "category": "master",
     "sounds": ["weapons/carcano/carcano_charge"]
-  },
-  "shoot.kar98k.close": {
-    "category": "master",
-    "sounds": ["shoot/close/kar98k"]
-  },
-  "shoot.springfield.close": {
-    "category": "master",
-    "sounds": ["shoot/close/springfield"]
   },
   "shoot.rifle.close": {
     "category": "master",
@@ -541,6 +522,28 @@
     "sounds": [
       "weapons/mosin/mosin_shoot_1",
       "weapons/mosin/mosin_shoot_2"
+    ]
+  },
+  "shoot.mg42.close": {
+    "category": "master",
+    "sounds": [
+      "weapons/mg42/mg42_shoot_1",
+      "weapons/mg42/mg42_shoot_2",
+      "weapons/mg42/mg42_shoot_3"
+    ]
+  },
+  "shoot.sawedoff.close": {
+    "category": "master",
+    "sounds": [
+      "weapons/sawedoff/sawedoff_shoot_1",
+      "weapons/sawedoff/sawedoff_shoot_2"
+    ]
+  },
+  "shoot.thompson.close": {
+    "category": "master",
+    "sounds": [
+      "weapons/thompson/thompson_shoot_1",
+      "weapons/thompson/thompson_shoot_2"
     ]
   }
 }
