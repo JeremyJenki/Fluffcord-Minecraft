@@ -1,0 +1,15 @@
+{
+    "parent": "item/weapons/webley",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [-10, 80, 35],
+			"translation": [-3, 2, 1.75],
+			"scale": [0.5, 0.55, 0.55]
+		},
+		"firstperson_lefthand": {
+			"rotation": [175, -80, 150],
+			"translation": [-3, 2, 1.75],
+			"scale": [0.5, 0.55, 0.55]
+        }
+    }
+}

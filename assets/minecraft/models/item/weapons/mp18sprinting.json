@@ -1,0 +1,15 @@
+{
+    "parent": "item/weapons/mp18",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [0, 75, 20],
+			"translation": [-8.5, 0.75, -3.25],
+			"scale": [1.75, 1.75, 1.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 75, 20],
+			"translation": [-8.5, 0.75, -3.25],
+			"scale": [1.75, 1.75, 1.75]
+		}
+    }
+}

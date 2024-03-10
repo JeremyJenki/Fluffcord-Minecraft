@@ -1,0 +1,8 @@
+{
+	"parent": "item/weapons/oldrevolverrapid",
+	"textures": {
+	  "0": "item/weapons/1892",
+	  "particle": "item/weapons/1892"
+	}
+  }
+  

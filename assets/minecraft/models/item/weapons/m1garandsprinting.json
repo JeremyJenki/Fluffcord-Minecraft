@@ -1,0 +1,15 @@
+{
+    "parent": "item/weapons/m1garand",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [0, 70, 17],
+			"translation": [-9.5, 4, 3],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 70, 17],
+			"translation": [-9.5, 4, 3],
+			"scale": [1.25, 1.25, 1.25]
+		}
+    }
+}

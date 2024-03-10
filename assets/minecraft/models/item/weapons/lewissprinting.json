@@ -1,0 +1,15 @@
+{
+    "parent": "item/weapons/lewis",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [54, 77, -38],
+			"translation": [-6.5, -4.25, -9],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [54, 77, -38],
+			"translation": [-76.5, -4.25, -9],
+			"scale": [1.2, 1.2, 1.2]
+        }
+    }
+}

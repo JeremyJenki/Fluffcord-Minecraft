@@ -1,0 +1,15 @@
+{
+    "parent": "item/weapons/tromboncinolauncher",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [3, 0, 45],
+			"translation": [-9.5, 4.5, -1.5],
+			"scale": [1.1, 1.1, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [3, 0, 45],
+			"translation": [-9.5, 4.5, -1.5],
+			"scale": [1.1, 1.1, 1]
+        }
+    }
+}
