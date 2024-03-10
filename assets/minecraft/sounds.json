@@ -545,5 +545,17 @@
       "weapons/thompson/thompson_shoot_1",
       "weapons/thompson/thompson_shoot_2"
     ]
+  },
+  "shoot.tankgewehr": {
+    "category": "master",
+    "sounds": ["weapons/tankgewehr/tankgewehr_shoot"]
+  },
+  "reload.tankgewehr.start": {
+    "category": "master",
+    "sounds": ["weapons/tankgewehr/tankgewehr_reload_start"]
+  },
+  "reload.tankgewehr.end": {
+    "category": "master",
+    "sounds": ["weapons/tankgewehr/tankgewehr_reload_end"]
   }
 }
