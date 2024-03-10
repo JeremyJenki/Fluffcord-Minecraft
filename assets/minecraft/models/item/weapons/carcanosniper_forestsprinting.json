@@ -1,0 +1,15 @@
+{
+    "parent": "item/weapons/carcanosniper_forest",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [0, 73, 10],
+			"translation": [-9, 6.75, 2.5],
+			"scale": [1.1, 1.1, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 73, 10],
+			"translation": [-9, 6.75, 2.5],
+			"scale": [1.1, 1.1, 0.8]
+        }
+    }
+}
