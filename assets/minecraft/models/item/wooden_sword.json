@@ -61,6 +61,7 @@
         {"predicate": {"custom_model_data":  44}, "model":"item/weapons/singleactionrapid"},
         {"predicate": {"custom_model_data":  45}, "model":"item/weapons/wildrevolverrapid"},
         {"predicate": {"custom_model_data":  46}, "model":"item/weapons/handcuffs"},
+        {"predicate": {"custom_model_data":  47}, "model":"item/weapons/arisakasniper"},
 
         {"predicate": {"custom_model_data":125}, "model":"item/weapons/carcano_cherry"},
         {"predicate": {"custom_model_data":142}, "model":"item/weapons/carcanosniper_cherry"},
@@ -81,7 +82,7 @@
         {"predicate": {"custom_model_data":1010}, "model":"item/weapons/mosinaiming"},
         {"predicate": {"custom_model_data":1011}, "model":"item/weapons/mg08aiming"},
         {"predicate": {"custom_model_data":1012}, "model":"item/weapons/mp40aiming"},
-        {"predicate": {"custom_model_data":1013}, "model":"item/weapons/reticle_arisaka"},
+        {"predicate": {"custom_model_data":1013}, "model":"item/weapons/arisakaaiming"},
         {"predicate": {"custom_model_data":1014}, "model":"item/weapons/trenchgunaiming"},
         {"predicate": {"custom_model_data":1015}, "model":"item/weapons/chauchataiming"},
         {"predicate": {"custom_model_data":1016}, "model":"item/weapons/fatmanaiming"},
@@ -109,13 +110,14 @@
         {"predicate": {"custom_model_data":1041}, "model":"item/weapons/m712aiming"},
         {"predicate": {"custom_model_data":1042}, "model":"item/weapons/reticle_arisaka"},
         {"predicate": {"custom_model_data":1045}, "model":"item/weapons/wildrevolveraiming"},
+        {"predicate": {"custom_model_data":1047}, "model":"item/weapons/reticle_arisaka"},
 
         {"predicate": {"custom_model_data":1125}, "model":"item/weapons/carcano_cherryaiming"},
         {"predicate": {"custom_model_data":1142}, "model":"item/weapons/reticle_arisaka"},
         {"predicate": {"custom_model_data":1225}, "model":"item/weapons/carcano_nightaiming"},
         {"predicate": {"custom_model_data":1242}, "model":"item/weapons/reticle_arisaka"},
         {"predicate": {"custom_model_data":1325}, "model":"item/weapons/carcano_forestaiming"},
-        {"predicate": {"custom_model_data":1342}, "model":"item/weapons/reticle_arisaka"},
+        {"predicate": {"custom_model_data":1347}, "model":"item/weapons/reticle_arisaka"},
 
         {"predicate": {"custom_model_data":2001}, "model":"item/weapons/ppsh41sprinting"},
         {"predicate": {"custom_model_data":2002}, "model":"item/weapons/mp18sprinting"},
@@ -158,6 +160,7 @@
         {"predicate": {"custom_model_data":2043}, "model":"item/weapons/oldrevolversprinting"},
         {"predicate": {"custom_model_data":2044}, "model":"item/weapons/singleactionsprinting"},
         {"predicate": {"custom_model_data":2045}, "model":"item/weapons/wildrevolversprinting"},
+        {"predicate": {"custom_model_data":2047}, "model":"item/weapons/arisakasnipersprinting"},
 
         {"predicate": {"custom_model_data":2125}, "model":"item/weapons/carcano_cherrysprinting"},
         {"predicate": {"custom_model_data":2142}, "model":"item/weapons/carcanosniper_cherrysprinting"},
