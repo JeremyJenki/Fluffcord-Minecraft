@@ -539,6 +539,10 @@
       "weapons/sawedoff/sawedoff_shoot_2"
     ]
   },
+  "charge.sawedoff": {
+    "category": "master",
+    "sounds": ["weapons/sawedoff/sawedoff_charge"]
+  },
   "shoot.thompson.close": {
     "category": "master",
     "sounds": [
@@ -557,5 +561,17 @@
   "reload.tankgewehr.end": {
     "category": "master",
     "sounds": ["weapons/tankgewehr/tankgewehr_reload_end"]
+  },
+  "shoot.trench.close": {
+    "category": "master",
+    "sounds": ["weapons/trench/trench_shoot"]
+  },
+  "reload.trench": {
+    "category": "master",
+    "sounds": ["weapons/trench/trench_reload"]
+  },
+  "charge.trench": {
+    "category": "master",
+    "sounds": ["weapons/trench/trench_charge"]
   }
 }
