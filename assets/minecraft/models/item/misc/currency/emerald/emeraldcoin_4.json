@@ -1,0 +1,6 @@
+{
+    "parent": "item/misc/currency/emeraldcoin",
+    "textures": {
+      "layer0": "item/misc/currency/emerald/emeraldcoin_4"
+    }
+  }
