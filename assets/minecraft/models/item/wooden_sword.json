@@ -62,6 +62,8 @@
         {"predicate": {"custom_model_data":  45}, "model":"item/weapons/wildrevolverrapid"},
         {"predicate": {"custom_model_data":  46}, "model":"item/weapons/handcuffs"},
         {"predicate": {"custom_model_data":  47}, "model":"item/weapons/arisakasniper"},
+        {"predicate": {"custom_model_data":  48}, "model":"item/weapons/type100"},
+        {"predicate": {"custom_model_data":  49}, "model":"item/weapons/flintlockpistol"},
 
         {"predicate": {"custom_model_data":125}, "model":"item/weapons/carcano_cherry"},
         {"predicate": {"custom_model_data":142}, "model":"item/weapons/carcanosniper_cherry"},
@@ -111,6 +113,8 @@
         {"predicate": {"custom_model_data":1042}, "model":"item/weapons/reticle_arisaka"},
         {"predicate": {"custom_model_data":1045}, "model":"item/weapons/wildrevolveraiming"},
         {"predicate": {"custom_model_data":1047}, "model":"item/weapons/reticle_arisaka"},
+        {"predicate": {"custom_model_data":1048}, "model":"item/weapons/type100aiming"},
+        {"predicate": {"custom_model_data":1049}, "model":"item/weapons/flintlockpistolaiming"},
 
         {"predicate": {"custom_model_data":1125}, "model":"item/weapons/carcano_cherryaiming"},
         {"predicate": {"custom_model_data":1142}, "model":"item/weapons/reticle_arisaka"},
@@ -161,6 +165,8 @@
         {"predicate": {"custom_model_data":2044}, "model":"item/weapons/singleactionsprinting"},
         {"predicate": {"custom_model_data":2045}, "model":"item/weapons/wildrevolversprinting"},
         {"predicate": {"custom_model_data":2047}, "model":"item/weapons/arisakasnipersprinting"},
+        {"predicate": {"custom_model_data":2048}, "model":"item/weapons/type100sprinting"},
+        {"predicate": {"custom_model_data":2049}, "model":"item/weapons/flintlockpistolsprinting"},
 
         {"predicate": {"custom_model_data":2125}, "model":"item/weapons/carcano_cherrysprinting"},
         {"predicate": {"custom_model_data":2142}, "model":"item/weapons/carcanosniper_cherrysprinting"},

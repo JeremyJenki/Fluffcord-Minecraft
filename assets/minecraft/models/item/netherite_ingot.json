@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "item/netherite_ingot"
+    },
+    "overrides": [
+      {"predicate": {"custom_model_data": 200},"model": "item/misc/currency/netheritecoin"},
+      {"predicate": {"custom_model_data": 203},"model": "item/misc/currency/netherite/netheritecoin_4"},
+      {"predicate": {"custom_model_data": 208},"model": "item/misc/currency/netherite/netheritecoin_9"}
+
+    ]
+  }

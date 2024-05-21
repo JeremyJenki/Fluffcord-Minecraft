@@ -85,6 +85,7 @@
     {"predicate": {"custom_model_data": 7250013}, "model": "fluffcord:hat/danila_hat"},
     {"predicate": {"custom_model_data": 7250014}, "model": "fluffcord:item/spamton_rocket"},
     {"predicate": {"custom_model_data": 7250016}, "model": "fluffcord:decor/ralsdummy"},
+    {"predicate": {"custom_model_data": 7250017}, "model": "fluffcord:decor/moyai"},
     {"predicate": {"custom_model_data": 7260001}, "model": "fluffcord:hat/ralsei_horns"}
   ]
 }

@@ -25,13 +25,13 @@
       {"predicate": {"custom_model_data": 103},"model": "item/misc/shell/pistol"},
 
       {"predicate": {"custom_model_data": 200},"model": "item/misc/currency/silvercoin"},
-      {"predicate": {"custom_model_data": 201},"model": "item/misc/currency/silvercoin/silvercoin_2"},
-      {"predicate": {"custom_model_data": 202},"model": "item/misc/currency/silvercoin/silvercoin_3"},
-      {"predicate": {"custom_model_data": 203},"model": "item/misc/currency/silvercoin/silvercoin_4"},
-      {"predicate": {"custom_model_data": 204},"model": "item/misc/currency/silvercoin/silvercoin_5"},
-      {"predicate": {"custom_model_data": 205},"model": "item/misc/currency/silvercoin/silvercoin_6"},
-      {"predicate": {"custom_model_data": 206},"model": "item/misc/currency/silvercoin/silvercoin_7"},
-      {"predicate": {"custom_model_data": 207},"model": "item/misc/currency/silvercoin/silvercoin_8"},
-      {"predicate": {"custom_model_data": 208},"model": "item/misc/currency/silvercoin/silvercoin_9"}
+      {"predicate": {"custom_model_data": 201},"model": "item/misc/currency/silver/silvercoin_2"},
+      {"predicate": {"custom_model_data": 202},"model": "item/misc/currency/silver/silvercoin_3"},
+      {"predicate": {"custom_model_data": 203},"model": "item/misc/currency/silver/silvercoin_4"},
+      {"predicate": {"custom_model_data": 204},"model": "item/misc/currency/silver/silvercoin_5"},
+      {"predicate": {"custom_model_data": 205},"model": "item/misc/currency/silver/silvercoin_6"},
+      {"predicate": {"custom_model_data": 206},"model": "item/misc/currency/silver/silvercoin_7"},
+      {"predicate": {"custom_model_data": 207},"model": "item/misc/currency/silver/silvercoin_8"},
+      {"predicate": {"custom_model_data": 208},"model": "item/misc/currency/silver/silvercoin_9"}
     ]
   }
