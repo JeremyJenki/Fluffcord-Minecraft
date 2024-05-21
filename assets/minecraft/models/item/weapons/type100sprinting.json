@@ -1,0 +1,15 @@
+{
+    "parent": "item/weapons/type100",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [2, 70, 8],
+			"translation": [-9.5, 8, 7.25],
+			"scale": [0.6, 0.6, 0.45]
+		},
+		"firstperson_lefthand": {
+			"rotation": [2, 70, 8],
+			"translation": [-9.5, 8, 7.25],
+			"scale": [0.6, 0.6, 0.45]
+        }
+    }
+}

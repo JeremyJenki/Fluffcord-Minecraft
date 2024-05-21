@@ -1,0 +1,15 @@
+{
+    "parent": "item/weapons/flintlockpistol",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [160, -81, 125],
+			"translation": [-2.75, 6.5, -1.25],
+			"scale": [0.8, 0.75, 0.7]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-13, -81, 50],
+			"translation": [-2.75, 6.5, -1.25],
+			"scale": [0.8, 0.75, 0.7]
+        }
+    }
+}
