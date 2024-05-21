@@ -1,6 +1,6 @@
 {
     "parent": "item/misc/currency/bill",
     "textures": {
-      "layer0": "item/misc/currency/bill_3"
+      "layer0": "item/misc/currency/bill/bill_3"
     }
   }

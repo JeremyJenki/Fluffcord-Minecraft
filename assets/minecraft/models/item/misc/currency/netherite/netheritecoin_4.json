@@ -1,0 +1,6 @@
+{
+    "parent": "item/misc/currency/netheritecoin",
+    "textures": {
+      "layer0": "item/misc/currency/netherite/netheritecoin_4"
+    }
+  }

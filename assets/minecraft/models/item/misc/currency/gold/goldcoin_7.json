@@ -1,0 +1,6 @@
+{
+    "parent": "item/misc/currency/goldcoin",
+    "textures": {
+      "layer0": "item/misc/currency/gold/goldcoin_7"
+    }
+  }

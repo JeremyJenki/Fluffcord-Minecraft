@@ -2,7 +2,7 @@
 	"credit": "Sprite by Alastor Crowley",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/misc/currency/silvercoin"
+		"layer0": "item/misc/currency/silver/silvercoin"
 	},
 	"display": {
 		"gui": {
