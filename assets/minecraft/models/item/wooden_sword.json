@@ -51,7 +51,7 @@
         {"predicate": {"custom_model_data":  34}, "model":"item/weapons/luger"},
         {"predicate": {"custom_model_data":  35}, "model":"item/weapons/minigun"},
         {"predicate": {"custom_model_data":  36}, "model":"item/weapons/tromboncino"},
-        {"predicate": {"custom_model_data":  37}, "model":"item/weapons/tromboncinolauncher"},
+        {"predicate": {"custom_model_data":  37}, "model":"item/weapons/coreeject"},
         {"predicate": {"custom_model_data":  38}, "model":"item/weapons/singleaction"},
         {"predicate": {"custom_model_data":  39}, "model":"item/weapons/winchester"},
         {"predicate": {"custom_model_data":  40}, "model":"item/weapons/thumper"},
@@ -62,7 +62,7 @@
         {"predicate": {"custom_model_data":  45}, "model":"item/weapons/wildrevolverrapid"},
         {"predicate": {"custom_model_data":  46}, "model":"item/weapons/handcuffs"},
         {"predicate": {"custom_model_data":  47}, "model":"item/weapons/arisakasniper"},
-        {"predicate": {"custom_model_data":  48}, "model":"item/weapons/type100"},
+        {"predicate": {"custom_model_data":  48}, "model":"item/weapons/wildrevolver"},
         {"predicate": {"custom_model_data":  49}, "model":"item/weapons/flintlockpistol"},
 
         {"predicate": {"custom_model_data":125}, "model":"item/weapons/carcano_cherry"},
@@ -113,7 +113,7 @@
         {"predicate": {"custom_model_data":1042}, "model":"item/weapons/reticle_arisaka"},
         {"predicate": {"custom_model_data":1045}, "model":"item/weapons/wildrevolveraiming"},
         {"predicate": {"custom_model_data":1047}, "model":"item/weapons/reticle_arisaka"},
-        {"predicate": {"custom_model_data":1048}, "model":"item/weapons/type100aiming"},
+        {"predicate": {"custom_model_data":1048}, "model":"item/weapons/wildrevolveraiming"},
         {"predicate": {"custom_model_data":1049}, "model":"item/weapons/flintlockpistolaiming"},
 
         {"predicate": {"custom_model_data":1125}, "model":"item/weapons/carcano_cherryaiming"},
@@ -165,7 +165,7 @@
         {"predicate": {"custom_model_data":2044}, "model":"item/weapons/singleactionsprinting"},
         {"predicate": {"custom_model_data":2045}, "model":"item/weapons/wildrevolversprinting"},
         {"predicate": {"custom_model_data":2047}, "model":"item/weapons/arisakasnipersprinting"},
-        {"predicate": {"custom_model_data":2048}, "model":"item/weapons/type100sprinting"},
+        {"predicate": {"custom_model_data":2048}, "model":"item/weapons/wildrevolversprinting"},
         {"predicate": {"custom_model_data":2049}, "model":"item/weapons/flintlockpistolsprinting"},
 
         {"predicate": {"custom_model_data":2125}, "model":"item/weapons/carcano_cherrysprinting"},
