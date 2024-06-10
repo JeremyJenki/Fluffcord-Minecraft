@@ -1,0 +1,15 @@
+{
+    "parent": "item/weapons/wildrevolver_gold",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [0, 0, 0],
+			"translation": [-8.96, 6.25, 2.5],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, 0],
+			"translation": [-8.96, 6.25, 2.5],
+			"scale": [1.2, 1.2, 1.2]
+        }
+    }
+}
