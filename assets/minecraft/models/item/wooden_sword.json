@@ -71,6 +71,10 @@
         {"predicate": {"custom_model_data":242}, "model":"item/weapons/carcanosniper_night"},
         {"predicate": {"custom_model_data":325}, "model":"item/weapons/carcano_forest"},
         {"predicate": {"custom_model_data":342}, "model":"item/weapons/carcanosniper_forest"},
+        {"predicate": {"custom_model_data":445}, "model":"item/weapons/wildrevolver_goldrapid"},
+        {"predicate": {"custom_model_data":448}, "model":"item/weapons/wildrevolver_gold"},
+        {"predicate": {"custom_model_data":545}, "model":"item/weapons/wildrevolver_shinyrapid"},
+        {"predicate": {"custom_model_data":548}, "model":"item/weapons/wildrevolver_shiny"},
 
         {"predicate": {"custom_model_data":1001}, "model":"item/weapons/ppsh41aiming"},
         {"predicate": {"custom_model_data":1002}, "model":"item/weapons/mp18aiming"},
@@ -122,6 +126,8 @@
         {"predicate": {"custom_model_data":1242}, "model":"item/weapons/reticle_arisaka"},
         {"predicate": {"custom_model_data":1325}, "model":"item/weapons/carcano_forestaiming"},
         {"predicate": {"custom_model_data":1347}, "model":"item/weapons/reticle_arisaka"},
+        {"predicate": {"custom_model_data":1448}, "model":"item/weapons/wildrevolver_goldaiming"},
+        {"predicate": {"custom_model_data":1548}, "model":"item/weapons/wildrevolver_shinyaiming"},
 
         {"predicate": {"custom_model_data":2001}, "model":"item/weapons/ppsh41sprinting"},
         {"predicate": {"custom_model_data":2002}, "model":"item/weapons/mp18sprinting"},
@@ -174,6 +180,10 @@
         {"predicate": {"custom_model_data":2242}, "model":"item/weapons/carcanosniper_nightsprinting"},
         {"predicate": {"custom_model_data":2325}, "model":"item/weapons/carcano_forestsprinting"},
         {"predicate": {"custom_model_data":2342}, "model":"item/weapons/carcanosniper_forestsprinting"},
+        {"predicate": {"custom_model_data":2445}, "model":"item/weapons/wildrevolver_goldsprinting"},
+        {"predicate": {"custom_model_data":2448}, "model":"item/weapons/wildrevolver_goldsprinting"},
+        {"predicate": {"custom_model_data":2545}, "model":"item/weapons/wildrevolver_shinysprinting"},
+        {"predicate": {"custom_model_data":2548}, "model":"item/weapons/wildrevolver_shinysprinting"},
 
         {"predicate": {"custom_model_data":3020}, "model":"item/weapons/flaregunreloading"},
         {"predicate": {"custom_model_data":3028}, "model":"item/weapons/sawedoffreloading"},
