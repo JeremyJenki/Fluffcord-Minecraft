@@ -2,14 +2,14 @@
     "parent": "item/weapons/wildrevolver",
     "display": {
 		"firstperson_righthand": {
-			"rotation": [-10, 80, 43],
-			"translation": [-3, 2.25, 1.25],
-			"scale": [0.5, 0.55, 0.55]
+			"rotation": [30.5, -11, 8.5],
+			"translation": [-0.25, 2, 1],
+			"scale": [1.2, 1.2, 1.2]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-180, 83, -140],
-			"translation": [-15.5, 2.5, 1.25],
-			"scale": [0.5, 0.55, 0.55]
+			"rotation": [30.5, -11, 8.5],
+			"translation": [-0.25, 2, 1],
+			"scale": [1.2, 1.2, 1.2]
         }
     }
 }
