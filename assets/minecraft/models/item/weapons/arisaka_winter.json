@@ -1,5 +1,5 @@
 {
-	"parent": "item/weapons/carcano",
+	"parent": "item/weapons/arisaka",
 	"textures": {
       "particle": "item/weapons/arisaka_winter"
 	}
