@@ -1,0 +1,6 @@
+{
+	"parent": "item/weapons/carcano",
+	"textures": {
+      "particle": "item/weapons/arisaka_night"
+	}
+  }
