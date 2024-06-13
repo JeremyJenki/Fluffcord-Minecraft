@@ -32,6 +32,7 @@
         {"predicate": {"charged": 1}, "model": "item/crossbow_arrow"},
         {"predicate": {"charged": 1, "firework": 1}, "model": "item/crossbow_firework"},
 
+
 		{"predicate": {"custom_model_data":   1}, "model":"item/weapons/ppsh41"},
         {"predicate": {"custom_model_data":   2}, "model":"item/weapons/mp18"},
         {"predicate": {"custom_model_data":   3}, "model":"item/weapons/origin12"},
@@ -82,8 +83,11 @@
         {"predicate": {"custom_model_data":  48}, "model":"item/weapons/wildrevolver"},
         {"predicate": {"custom_model_data":  49}, "model":"item/weapons/flintlockpistol"},
 
+        {"predicate": {"custom_model_data":113}, "model":"item/weapons/arisaka_winter"},
         {"predicate": {"custom_model_data":125}, "model":"item/weapons/carcano_cherry"},
+        {"predicate": {"custom_model_data":141}, "model":"item/weapons/m712_winter"},
         {"predicate": {"custom_model_data":142}, "model":"item/weapons/carcanosniper_cherry"},
+        {"predicate": {"custom_model_data":213}, "model":"item/weapons/arisaka_night"},
         {"predicate": {"custom_model_data":225}, "model":"item/weapons/carcano_night"},
         {"predicate": {"custom_model_data":242}, "model":"item/weapons/carcanosniper_night"},
         {"predicate": {"custom_model_data":325}, "model":"item/weapons/carcano_forest"},
@@ -137,8 +141,11 @@
         {"predicate": {"custom_model_data":1048}, "model":"item/weapons/wildrevolveraiming"},
         {"predicate": {"custom_model_data":1049}, "model":"item/weapons/flintlockpistolaiming"},
 
+        {"predicate": {"custom_model_data":1113}, "model":"item/weapons/arisaka_winteraiming"},
         {"predicate": {"custom_model_data":1125}, "model":"item/weapons/carcano_cherryaiming"},
+        {"predicate": {"custom_model_data":1141}, "model":"item/weapons/m712_winteraiming"},
         {"predicate": {"custom_model_data":1142}, "model":"item/weapons/reticle_arisaka"},
+        {"predicate": {"custom_model_data":1213}, "model":"item/weapons/arisaka_nightaiming"},
         {"predicate": {"custom_model_data":1225}, "model":"item/weapons/carcano_nightaiming"},
         {"predicate": {"custom_model_data":1242}, "model":"item/weapons/reticle_arisaka"},
         {"predicate": {"custom_model_data":1325}, "model":"item/weapons/carcano_forestaiming"},
@@ -191,8 +198,11 @@
         {"predicate": {"custom_model_data":2048}, "model":"item/weapons/wildrevolversprinting"},
         {"predicate": {"custom_model_data":2049}, "model":"item/weapons/flintlockpistolsprinting"},
 
+        {"predicate": {"custom_model_data":2113}, "model":"item/weapons/arisaka_wintersprinting"},
         {"predicate": {"custom_model_data":2125}, "model":"item/weapons/carcano_cherrysprinting"},
+        {"predicate": {"custom_model_data":2141}, "model":"item/weapons/m712_wintersprinting"},
         {"predicate": {"custom_model_data":2142}, "model":"item/weapons/carcanosniper_cherrysprinting"},
+        {"predicate": {"custom_model_data":2213}, "model":"item/weapons/arisaka_nightsprinting"},
         {"predicate": {"custom_model_data":2225}, "model":"item/weapons/carcano_nightsprinting"},
         {"predicate": {"custom_model_data":2242}, "model":"item/weapons/carcanosniper_nightsprinting"},
         {"predicate": {"custom_model_data":2325}, "model":"item/weapons/carcano_forestsprinting"},
