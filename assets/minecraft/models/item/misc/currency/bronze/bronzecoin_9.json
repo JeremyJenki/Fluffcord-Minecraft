@@ -1,6 +1,6 @@
 {
-    "parent": "item/misc/currency/silvercoin",
+    "parent": "item/misc/currency/bronzecoin",
     "textures": {
-      "layer0": "item/misc/currency/silver/silvercoin_9"
+      "layer0": "item/misc/currency/bronze/bronzecoin_9"
     }
   }
