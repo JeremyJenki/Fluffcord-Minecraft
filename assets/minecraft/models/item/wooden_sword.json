@@ -64,6 +64,10 @@
         {"predicate": {"custom_model_data":  47}, "model":"item/weapons/arisakasniper"},
         {"predicate": {"custom_model_data":  48}, "model":"item/weapons/wildrevolver"},
         {"predicate": {"custom_model_data":  49}, "model":"item/weapons/flintlockpistol"},
+        {"predicate": {"custom_model_data":  50}, "model":"item/weapons/gatlinggun"},
+        {"predicate": {"custom_model_data":  51}, "model":"item/weapons/spacegun"},
+        {"predicate": {"custom_model_data":  52}, "model":"item/weapons/piercerevolver"},
+        {"predicate": {"custom_model_data":  53}, "model":"item/weapons/sharpshooterrevolver"},
 
         {"predicate": {"custom_model_data":113}, "model":"item/weapons/arisaka_winter"},
         {"predicate": {"custom_model_data":125}, "model":"item/weapons/carcano_cherry"},
@@ -122,6 +126,8 @@
         {"predicate": {"custom_model_data":1047}, "model":"item/weapons/reticle_arisaka"},
         {"predicate": {"custom_model_data":1048}, "model":"item/weapons/wildrevolveraiming"},
         {"predicate": {"custom_model_data":1049}, "model":"item/weapons/flintlockpistolaiming"},
+        {"predicate": {"custom_model_data":1050}, "model":"item/weapons/gatlinggunaiming"},
+        {"predicate": {"custom_model_data":1051}, "model":"item/weapons/spacegunaiming"},
 
         {"predicate": {"custom_model_data":1113}, "model":"item/weapons/arisaka_winteraiming"},
         {"predicate": {"custom_model_data":1125}, "model":"item/weapons/carcano_cherryaiming"},
@@ -179,6 +185,7 @@
         {"predicate": {"custom_model_data":2047}, "model":"item/weapons/arisakasnipersprinting"},
         {"predicate": {"custom_model_data":2048}, "model":"item/weapons/wildrevolversprinting"},
         {"predicate": {"custom_model_data":2049}, "model":"item/weapons/flintlockpistolsprinting"},
+        {"predicate": {"custom_model_data":2051}, "model":"item/weapons/spacegunsprinting"},
 
         {"predicate": {"custom_model_data":2113}, "model":"item/weapons/arisaka_wintersprinting"},
         {"predicate": {"custom_model_data":2125}, "model":"item/weapons/carcano_cherrysprinting"},
@@ -202,15 +209,16 @@
         {"predicate": {"custom_model_data":4017}, "model":"item/weapons/fatman_empty"},
 
         {"predicate": {"custom_model_data": 100007}, "model":"item/weapons/m4a1_reflexsight"},
+        {"predicate": {"custom_model_data": 100013}, "model":"item/weapons/arisakasniper"},
         {"predicate": {"custom_model_data": 100015}, "model":"item/weapons/stg44_reflexsight"},
 
         {"predicate": {"custom_model_data": 101007}, "model":"item/weapons/m4a1_reflexsightaiming"},
+        {"predicate": {"custom_model_data": 101013}, "model":"item/weapons/reticle_arisaka"},
         {"predicate": {"custom_model_data": 101015}, "model":"item/weapons/stg44_reflexsightaiming"},
 
         {"predicate": {"custom_model_data": 102007}, "model":"item/weapons/m4a1_reflexsightsprinting"},
+        {"predicate": {"custom_model_data": 102013}, "model":"item/weapons/arisakasnipersprinting"},
         {"predicate": {"custom_model_data": 102015}, "model":"item/weapons/stg44_reflexsightsprinting"},
-
-		{"predicate": {"custom_model_data":1000007}, "model":"item/weapons/m4a1_suppressor"},
 
         {"predicate": {"custom_model_data":1001007}, "model":"item/weapons/m4a1_suppressoraiming"},
         {"predicate": {"custom_model_data":1002007}, "model":"item/weapons/m4a1_suppressorsprinting"},
