@@ -1,0 +1,7 @@
+{
+	"parent": "item/weapons/piercerevolver",
+	"textures": {
+	  "2": "item/weapons/sharpshooter_revolver"
+	}
+  }
+  
