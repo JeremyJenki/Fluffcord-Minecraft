@@ -13,4 +13,5 @@
 - Snayke - pool_*.png
 - Mareux - perfectgirl.ogg
 - Lomein22 - ralsdummy.json/.png (tweaked by hecko)
+- MrDrThor - Primorsk sprites
 - hecko - everything else
