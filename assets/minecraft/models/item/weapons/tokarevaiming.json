@@ -1,0 +1,15 @@
+{
+    "parent": "item/weapons/tokarev",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [-0.5, 90, 0],
+			"translation": [-8.96, 5.15, 1.25],
+			"scale": [0.6, 0.6, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-0.5, -90, 0],
+			"translation": [-8.96, 5.15, 1.25],
+			"scale": [0.6, 0.6, 0.5]
+        }
+    }
+}
