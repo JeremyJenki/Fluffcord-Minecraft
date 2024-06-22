@@ -4,7 +4,7 @@
 		"layer0": "minecraft:item/feather"
 	},
 	"overrides": [
-        
+
         {"predicate": {"custom_model_data":0}, "model":"item/feather"},
 
 		{"predicate": {"custom_model_data":   1}, "model":"item/weapons/ppsh41"},
@@ -23,7 +23,7 @@
         {"predicate": {"custom_model_data":  14}, "model":"item/weapons/trenchgun"},
         {"predicate": {"custom_model_data":  15}, "model":"item/weapons/chauchat"},
         {"predicate": {"custom_model_data":  16}, "model":"item/weapons/fatman"},
-        {"predicate": {"custom_model_data":  17}, "model":"item/weapons/fatman_rock"},
+        {"predicate": {"custom_model_data":  17}, "model":"item/weapons/tokarev"},
         {"predicate": {"custom_model_data":  18}, "model":"item/weapons/spamton_neo_blaster"},
         {"predicate": {"custom_model_data":  19}, "model":"item/weapons/flamethrower"},
         {"predicate": {"custom_model_data":  20}, "model":"item/weapons/flaregun"},
@@ -91,7 +91,7 @@
         {"predicate": {"custom_model_data":1014}, "model":"item/weapons/trenchgunaiming"},
         {"predicate": {"custom_model_data":1015}, "model":"item/weapons/chauchataiming"},
         {"predicate": {"custom_model_data":1016}, "model":"item/weapons/fatmanaiming"},
-        {"predicate": {"custom_model_data":1017}, "model":"item/weapons/fatman_rockaiming"},
+        {"predicate": {"custom_model_data":1017}, "model":"item/weapons/tokarevaiming"},
         {"predicate": {"custom_model_data":1020}, "model":"item/weapons/flaregunaiming"},
         {"predicate": {"custom_model_data":1021}, "model":"item/weapons/mauseraiming"},
         {"predicate": {"custom_model_data":1022}, "model":"item/weapons/brownbessaiming"},
@@ -149,7 +149,7 @@
         {"predicate": {"custom_model_data":2014}, "model":"item/weapons/trenchgunsprinting"},
         {"predicate": {"custom_model_data":2015}, "model":"item/weapons/chauchatsprinting"},
         {"predicate": {"custom_model_data":2016}, "model":"item/weapons/fatmansprinting"},
-        {"predicate": {"custom_model_data":2017}, "model":"item/weapons/fatman_rocksprinting"},
+        {"predicate": {"custom_model_data":2017}, "model":"item/weapons/tokarevsprinting"},
         {"predicate": {"custom_model_data":2020}, "model":"item/weapons/flaregunsprinting"},
         {"predicate": {"custom_model_data":2021}, "model":"item/weapons/mausersprinting"},
         {"predicate": {"custom_model_data":2022}, "model":"item/weapons/brownbesssprinting"},
@@ -192,6 +192,5 @@
         {"predicate": {"custom_model_data":2448}, "model":"item/weapons/wildrevolver_goldsprinting"},
         {"predicate": {"custom_model_data":2545}, "model":"item/weapons/wildrevolver_shinysprinting"},
         {"predicate": {"custom_model_data":2548}, "model":"item/weapons/wildrevolver_shinysprinting"}
-
 	]
 }
