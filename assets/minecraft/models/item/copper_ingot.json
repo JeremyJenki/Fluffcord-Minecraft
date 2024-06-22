@@ -6,7 +6,8 @@
     "overrides": [
       {"predicate": {"custom_model_data": 200},"model": "item/misc/currency/bronzecoin"},
       {"predicate": {"custom_model_data": 203},"model": "item/misc/currency/bronze/bronzecoin_4"},
-      {"predicate": {"custom_model_data": 208},"model": "item/misc/currency/bronze/bronzecoin_9"}
+      {"predicate": {"custom_model_data": 208},"model": "item/misc/currency/bronze/bronzecoin_9"},
 
+      {"predicate": {"custom_model_data": 500},"model": "item/misc/currency/primorsk/primorsk_copper_hrivna"}
     ]
   }

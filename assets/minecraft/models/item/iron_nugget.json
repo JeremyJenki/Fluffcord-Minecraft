@@ -37,6 +37,8 @@
       {"predicate": {"custom_model_data": 205},"model": "item/misc/currency/silver/silvercoin_6"},
       {"predicate": {"custom_model_data": 206},"model": "item/misc/currency/silver/silvercoin_7"},
       {"predicate": {"custom_model_data": 207},"model": "item/misc/currency/silver/silvercoin_8"},
-      {"predicate": {"custom_model_data": 208},"model": "item/misc/currency/silver/silvercoin_9"}
+      {"predicate": {"custom_model_data": 208},"model": "item/misc/currency/silver/silvercoin_9"},
+
+      {"predicate": {"custom_model_data": 500},"model": "item/misc/currency/primorsk/primorsk_silver_hrivna"}
     ]
   }

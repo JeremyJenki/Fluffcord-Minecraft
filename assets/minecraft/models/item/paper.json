@@ -17,6 +17,8 @@
       {"predicate": {"custom_model_data": 400},"model": "item/misc/currency/yellowbill/yellowbill"},
       {"predicate": {"custom_model_data": 401},"model": "item/misc/currency/yellowbill/yellowbill_2"},
       {"predicate": {"custom_model_data": 402},"model": "item/misc/currency/yellowbill/yellowbill_3"},
-      {"predicate": {"custom_model_data": 403},"model": "item/misc/currency/yellowbill/yellowbill_4"}
+      {"predicate": {"custom_model_data": 403},"model": "item/misc/currency/yellowbill/yellowbill_4"},
+
+      {"predicate": {"custom_model_data": 500},"model": "item/misc/currency/primorsk/primorsk_pina"}
     ]
   }
