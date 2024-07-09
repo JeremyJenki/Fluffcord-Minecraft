@@ -4,6 +4,10 @@
       "layer0": "item/paper"
     },
     "overrides": [
+
+      {"predicate": {"custom_model_data": 100},"model": "item/misc/ticket/ticketred"},
+      {"predicate": {"custom_model_data": 101},"model": "item/misc/ticket/ticketwhite"},
+
       {"predicate": {"custom_model_data": 200},"model": "item/misc/currency/bill"},
       {"predicate": {"custom_model_data": 201},"model": "item/misc/currency/bill/bill_2"},
       {"predicate": {"custom_model_data": 202},"model": "item/misc/currency/bill/bill_3"},
