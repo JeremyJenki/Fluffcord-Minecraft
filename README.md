@@ -4,7 +4,8 @@
 - Toby Fox - character designs, pipis.png, ms_pipis.png, badexplosion.ogg, won_ch1.ogg
 - someone namedmax - poofloaf.png
 - Snayke - pool_*.png
-- Breadich - ralseiplush.json/.png
-- dofamine0 - nikoplush.json/.png
-- Lomein22 - ralsdummy.json/.png
+- frimsy - mae_plush.json/.png
+- Breadich - ralsei_plush.json/.png
+- dofamine0 - niko_plush.json/.png
+- Lomein22 - ralsei_dummy.json/.png
 - MrDrThor - Primorsk sprites
