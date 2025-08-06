@@ -7,5 +7,6 @@
 - frimsy - mae_plush.json/.png
 - Breadich - ralsei_plush.json/.png
 - dofamine0 - niko_plush.json/.png
+- gameboi - whiskers_plush.json/.png
 - Lomein22 - ralsei_dummy.json/.png
 - MrDrThor - Primorsk sprites
