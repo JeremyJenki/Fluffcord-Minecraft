@@ -1,7 +1,0 @@
-{
-	"credit": "Sprite by mabel",
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "fluffcord:item/susie_axe"
-  }
-}

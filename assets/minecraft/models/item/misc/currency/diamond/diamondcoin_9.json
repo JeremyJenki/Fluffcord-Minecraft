@@ -1,6 +1,0 @@
-{
-    "parent": "item/misc/currency/diamondcoin",
-    "textures": {
-      "layer0": "item/misc/currency/diamond/diamondcoin_9"
-    }
-  }

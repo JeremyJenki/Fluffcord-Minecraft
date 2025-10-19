@@ -1,7 +1,0 @@
-{
-	"parent": "item/weapons/wildrevolver",
-	"textures": {
-	  "0": "item/weapons/wildrevolver_shiny"
-	}
-  }
-  

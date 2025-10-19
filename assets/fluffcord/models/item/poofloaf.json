@@ -1,7 +1,0 @@
-{
-	"credit": "Sprite by someone namedmax",
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "fluffcord:item/poofloaf"
-  }
-}

@@ -1,7 +1,0 @@
-{
-	"credit": "Sprite by MrDrThor",
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "item/misc/foods/fries"
-	}
-}

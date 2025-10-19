@@ -1,6 +1,0 @@
-{
-	"parent": "item/weapons/arisaka",
-	"textures": {
-	  "particle": "item/weapons/arisaka_black"
-	}
-  }
